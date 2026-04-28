@@ -27,11 +27,12 @@ Bot Service + Scrapper Service, асинхронная коммуникация 
 ---
 
 ## Стек
+<p>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=maven,git,docker,idea"/>
+  <img src="https://skillicons.dev/icons?i=spring"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis"/>
+  <img src="https://skillicons.dev/icons?i=kafka"/>
+</p>
 
-```
-Основное      Java, многопоточность, ООП, паттерны проектирования
-Фреймворки    Spring Boot, Spring Data JPA, Spring Security
-Базы данных   PostgreSQL, Redis, Liquibase, JdbcTemplate
-Брокеры       Apache Kafka
-Инструменты   Maven, Git, Docker, IntelliJ IDEA, JUnit, WireMock
-```
+
